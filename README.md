@@ -1,2 +1,2 @@
-# u12rubpls
-Docker image with ubuntu 12.04 + Ruby + services &amp; tools
+# u12rub
+Ubuntu 12.04 + ruby image preinstalled with services and tools.
